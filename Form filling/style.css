@@ -1,0 +1,184 @@
+*{
+    font-family:arial;
+}
+.form{
+    background-color:skyblue;
+}
+.survey{
+    margin:0;
+    margin-left:4rem;
+}
+.feedback{
+    
+    width:87%;
+    border:2px solid skyblue;
+    margin-left:2rem;
+    border-radius:1rem;
+    margin-bottom:1rem;
+}
+.image{
+    height:110px;
+    width:170px;
+    margin-left:1050px;
+    margin-top:5px;
+
+   
+   
+
+    
+}
+.finance-img {
+    margin-right:15px;
+}
+.heading{
+    background-color:skyblue;
+    height:90px;
+    text-align:center;
+    width:97%;
+    margin-left:0.1rem;
+    border-radius:1rem;
+    padding:1rem;
+}
+.heading h1{
+    margin-top: 19px;
+}
+
+
+
+.image h3{
+    margin-top:0.1rem;
+    margin-right:0.25rem;
+}
+.details{
+    margin-left:2.5rem;
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.name{
+    font-weight:600;
+    font-size:20px;
+}
+
+
+.name1{
+    height:2rem;
+    width:23rem;;
+    margin-left:0.25rem;
+}
+.date{
+    margin-left:3rem;
+    font-weight:600;
+    font-size:20px;
+
+}
+.date1{
+    height:2rem;
+    width:23rem;;
+    margin-left:0.25rem;
+
+}
+.details2{
+    margin-left:2.5rem;
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    margin-top:2rem;
+}
+.email{
+    font-weight:600;
+    font-size:20px;
+}
+.Email{
+    height:2rem;
+    width:23rem;;
+    margin-left:0.25rem;
+
+}
+.phone{
+    margin-left:3rem;
+    font-weight:600;
+    font-size:20px;
+}
+.Phone{
+    height:2rem;
+    width:23rem;;
+    margin-left:0.25rem;
+
+}
+.consultant{
+    margin-left: 3.5rem;
+    width:90%;
+    font-weight:400;
+    margin-top:3rem;
+    opacity:0.8;
+    font-size:20px;
+}
+.finance{
+    margin-top:3rem;
+    margin-left:2.5rem;
+}
+.good{
+    margin-left:2rem;
+}
+.performance{
+    margin-top:3rem;
+    margin-left:2.5rem;
+}
+#good {
+    color:skyblue;
+}
+.fgt hr{
+    width:200px;
+    opacity:0.7;
+}
+.button{
+    border-radius:0.35rem;
+    justify-content:center;
+    height:40px;
+    width:150px;
+    margin-left:550px;
+    background-color: skyblue;
+    margin-top:1rem;
+    
+}
+.suggest{
+    margin-left:3rem;
+
+}
+.suggest1{
+    height:5rem;
+    width:80%;
+    border-radius:8px;
+    border: 1.5px solid black;
+}
+.mobile{
+    margin-left:0.5rem;
+}
+.contact{
+    height:4rem;
+    width: 100%;
+    display:inline;
+    flex-wrap:wrap;
+}
+.thank{
+   
+    margin-left:1000px;
+    color:rgb(66,227,245);
+    width:400px;
+    text-decoration:line; 
+   
+}
+.staff{
+    margin-top:3rem;
+    margin-left:2.5rem;
+}
+@media (max-width:1000px){
+    .date1{
+        from {
+            width:90%;
+        }
+    }
+        
+    }
